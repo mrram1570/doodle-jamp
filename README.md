@@ -61,6 +61,7 @@ Doodle Jump Website Game is a web-based version of the popular Doodle Jump game,
 [image alt](https://github.com/mrram1570/doodle-jamp/blob/main/doodlejumpbg.png?raw=true)
 [image alt](https://github.com/mrram1570/doodle-jamp/blob/main/doodler-left.png?raw=true)
 [image alt](https://github.com/mrram1570/doodle-jamp/blob/main/doodler-right.png?raw=true)
+[image alt](https://github.com/mrram1570/doodle-jamp/blob/main/platform-broken.png?raw=true)
 
 ## Video Demonstration
 Check out the video demonstration of the Doodle Jump Website Game [here](https://youtu.be/4Ot6FItc-WM?feature=shared).
