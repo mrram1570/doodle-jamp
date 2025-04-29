@@ -63,7 +63,8 @@ Doodle Jump Website Game is a web-based version of the popular Doodle Jump game,
 [image alt](https://github.com/mrram1570/doodle-jamp/blob/main/doodler-right.png?raw=true)
 
 ## Video Demonstration
-Check out the video demonstration of the Doodle Jump Website Game [here](https://www.youtube.com/watch?v=your_video_link).
+Check out the video demonstration of the Doodle Jump Website Game [here](https://youtu.be/4Ot6FItc-WM?feature=shared).
+
 
 ## Installation
 To run the game locally, clone the repository and open index.html in your web browser.
