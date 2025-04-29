@@ -58,7 +58,8 @@ Doodle Jump Website Game is a web-based version of the popular Doodle Jump game,
 - *Themed Levels*: Add seasonal or holiday themes to keep the game fresh and engaging.
 
 ## Screenshots
-
+[image alt](https://github.com/mrram1570/doodle-jamp/blob/main/doodlejumpbg.png?raw=true)
+[image alt]()
 
 ## Video Demonstration
 Check out the video demonstration of the Doodle Jump Website Game [here](https://www.youtube.com/watch?v=your_video_link).
